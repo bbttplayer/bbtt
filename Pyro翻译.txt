@@ -1,0 +1,122 @@
+﻿
+Combat
+
+AntiBots 防假人(小游戏服用，但是一般没人用)
+Aura 杀戮光环
+AutoArmor 自动穿装备
+AutoCrystal 自动水晶
+AutoLog 自动退出(设置好多少血，然后到达那个血量自动退出，建议别用，会被骂ez log)
+AutoPot 自动药水(没啥用)
+AutoTotem 自动图腾(就是副手图腾爆了自动补)
+AutoTrap 自动trap别人(就是围住别人，一般对刀用)
+BowAim 弓自瞄
+Critcals 刀刀暴击(对刀用的)
+DurabilityAlert 耐久低警告(耐久低会有提示)
+HoleFiller 自动填坑(防蹲坑狗的)
+Offhand 副手水晶/金pp
+Quiver 自动将背包中增益效果的箭射在自己身上
+SelfTrap 自己trap自己(防止别人跑你的坑)
+SelfWeb 在自己脚底下放置蜘蛛网(让敌人下不来然后炸敌人)
+Surround 黑曜石围自己
+Velocity 防击退(一定要开！不然打水晶打一下直接飘起来)
+
+Exploit
+
+AntiHunger 防饥饿(但是还会掉，就是掉的慢)
+AutoDupe 自动刷物品(2b2t.org有用，后期应该会ban)
+NewChunk  新的区块(就是该区块你是第一个加载的，以前没人来过)
+PacketFly 好像可以用来穿墙
+PingSpoof 假延迟
+PortalGodMode 传送门神模式(进/出地狱门获得god模式，但是不知道2b2t.org能不能用了)
+Reach 长臂
+
+Movement
+
+AirStrafe 空中speed
+AutoWalk 自动走路
+Baritone 自动挖矿那些的(前缀一般是#)
+Blink 瞬移
+BoatFly 船飞(2b2t.org可以用，但是以后应该会修复)
+ElytraFlight2 平飞
+EntityControl 不用鞍就可以骑生物
+EntitySpeed 实体加速
+FastSwim 快速游泳
+Flight 也是平飞
+HighJump 跳的很高
+IceSpeed 在冰上加速
+Jesus 耶稣模式，可以悬浮在水、岩浆上
+LongJump 远跳
+NoFall 无摔落伤害
+NoSlow 吃东西不会减速，打开背包可以走动
+ReverseStep 快速进坑
+SafeWalk 更安全的行走(到方块边缘会自动shift)
+Speed 速度(建议打架开，别一直开，会回弹)
+Sprint 自动疾跑
+Step 自动上台阶
+YawLock 锁定视角
+
+Misc
+
+AntiAFK 防挂机
+AntiAim 防自瞄(应该是)
+AntiPacketBan 防禁人书/塔等
+AntiVanish 防消失
+AutoEat 自动吃东西
+AutoFish 自动钓鱼
+AutoReconnect 自动重连
+AutoRespawn 自动重生
+AutoTool 自动切换工具
+BetterChat 更好的聊天
+ChatSuffix 聊天后缀
+ChestStealer 箱子自动搜刮
+CoordChat 防止手滑发出一些重要坐标
+DiscordRPC 更好的discord状态
+Friends 好友
+MiddleClickFriend 鼠标中键快速添加好友
+SkinBlink 皮肤闪烁
+Spammer 自动喊话(刷屏)
+XCarry 多四格物品栏
+
+Render
+BreakHighlight 被看见的方块边缘会亮
+Brightness 无限夜视
+Chams 透视
+CityESP 挖掉该方块可以炸别人的提示
+ClickGUI 就是GUI
+Compass 指南针
+ESP 搜索指定物品
+ExtraTab 可以看见更多在线人数
+Freecam 灵魂出窍
+HUDEditor hud设置
+HoleESP 显示基岩洞和黑曜石洞
+NameTags 显示玩家的装备，id，血量等
+NoRender 取消一些渲染效果(火，受伤等)
+Radar 和线条一样，直向玩家
+Search 搜索
+Skeleton 玩家骨架
+SkyColor 没啥用，增加FPS的
+SmallShield 缩小副手物品大小
+Tracers 线条，直向玩家等
+ViewClip 第三人称看自己更远距离
+
+World
+
+AutoMine 自动挖掘
+AutoTunnel 应该是自动调音
+Avoid 防掉虚空(Anti void)
+FastPlace 快速放置(丢经验瓶用)
+Nuker 自动挖周围方块
+Scaffold 自动搭路
+Speedmine 更快的挖掘
+Timer 加速时间
+Wallhack 矿透
+Waypoints 别人下线地点，自己死亡地点
+Weather 不渲染天气
+
+Advanced
+
+AutoPilot 自动船飞
+StashSorter 找基地的
+
+
+
